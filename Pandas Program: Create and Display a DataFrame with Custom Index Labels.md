@@ -1,6 +1,6 @@
 # Pandas Program: Create and Display a DataFrame with Custom Index Labels
 
-developed by Aadhithan B, register no : 212224040001
+developed by Dharshini V, register no : 212223040038
 
 ## 🎯 Aim
 
